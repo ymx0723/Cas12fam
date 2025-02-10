@@ -1,0 +1,17 @@
+
+>>>   1jx4_A (335 aa)
+>>>   Estimated runtime: 1 minutes and 6 seconds
+>>>   Using 64 cpus
+
+Write a clean version of the PDB: remove non standard residues
+Launch SWORD
+Parse SWORD output
+Calculate pseudo-energies of Domains
+Write the SWORD results
+Write Peeling results
+Generate histogram of SWORD2 domains consistency
+Generate contact probability matrices
+Calculate junctions consistencies
+Clean and prepare results
+Results can be found here: result/1jx4_A_16_11_2024_22919
+Total runtime: 46 seconds

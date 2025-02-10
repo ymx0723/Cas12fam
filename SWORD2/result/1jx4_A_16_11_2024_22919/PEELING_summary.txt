@@ -1,0 +1,61 @@
+Peeling level 1
+    Number of Protein Units: 2
+    Compaction Index: 67.88
+      1-236: AUL= 94% Z-score=-4.4
+    237-335: AUL= 89% Z-score=-3.1
+Peeling level 2
+    Number of Protein Units: 3
+    Compaction Index: 83.26
+      1-163: AUL= 89% Z-score=-3.1
+    164-236: AUL= 89% Z-score=-3.0
+    237-335: AUL= 89% Z-score=-3.1
+Peeling level 3
+    Number of Protein Units: 5
+    Compaction Index: 90.72
+       1-74: AUL= 65% Z-score=-1.7
+     75-135: AUL= 26% Z-score=-1.2
+    136-163: AUL= 81% Z-score=-2.3
+    164-236: AUL= 89% Z-score=-3.0
+    237-335: AUL= 89% Z-score=-3.1
+Peeling level 4
+    Number of Protein Units: 6
+    Compaction Index: 92.09
+       1-74: AUL= 62% Z-score=-1.6
+     75-135: AUL= 23% Z-score=-1.1
+    136-163: AUL= 82% Z-score=-2.4
+    164-201: AUL= 83% Z-score=-2.5
+    202-236: AUL= 45% Z-score=-1.4
+    237-335: AUL= 89% Z-score=-3.1
+Peeling level 5
+    Number of Protein Units: 7
+    Compaction Index: 93.16
+       1-74: AUL= 62% Z-score=-1.6
+     75-135: AUL= 30% Z-score=-1.2
+    136-163: AUL= 82% Z-score=-2.4
+    164-201: AUL= 82% Z-score=-2.4
+    202-236: AUL= 44% Z-score=-1.3
+    237-273: AUL= 44% Z-score=-1.3
+    274-335: AUL= 80% Z-score=-2.3
+Peeling level 6
+    Number of Protein Units: 8
+    Compaction Index: 94.18
+       1-31: AUL=  0% Z-score=0.0
+      32-74: AUL= 34% Z-score=-1.2
+     75-135: AUL= 23% Z-score=-1.1
+    136-163: AUL= 82% Z-score=-2.4
+    164-201: AUL= 82% Z-score=-2.4
+    202-236: AUL= 47% Z-score=-1.4
+    237-273: AUL= 40% Z-score=-1.3
+    274-335: AUL= 82% Z-score=-2.4
+Peeling level 7
+    Number of Protein Units: 9
+    Compaction Index: 94.5
+       1-31: AUL=  0% Z-score=0.0
+      32-74: AUL= 36% Z-score=-1.3
+     75-135: AUL= 24% Z-score=-1.2
+    136-163: AUL= 81% Z-score=-2.4
+    164-201: AUL= 82% Z-score=-2.4
+    202-236: AUL= 49% Z-score=-1.4
+    237-273: AUL= 43% Z-score=-1.3
+    274-305: AUL= 54% Z-score=-1.5
+    306-335: AUL=  0% Z-score=-0.7

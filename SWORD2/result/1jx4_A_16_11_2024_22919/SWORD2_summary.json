@@ -1,0 +1,343 @@
+{
+    "Ambiguity index": "***",
+    "Optimal partition": {
+        "Partition": "Optimal partition",
+        "Quality": "***",
+        "Nb. domains": 3,
+        "Domains": {
+            "Domain 1": {
+                "AUL": 89,
+                "Z-score": -3.1,
+                "PUs": {
+                    "1-163": {
+                        "AUL": 88,
+                        "Z-score": -3.0
+                    }
+                }
+            },
+            "Domain 2": {
+                "AUL": 89,
+                "Z-score": -3.0,
+                "PUs": {
+                    "164-236": {
+                        "AUL": 89,
+                        "Z-score": -3.1
+                    }
+                }
+            },
+            "Domain 3": {
+                "AUL": 90,
+                "Z-score": -3.2,
+                "PUs": {
+                    "237-335": {
+                        "AUL": 89,
+                        "Z-score": -3.1
+                    }
+                }
+            }
+        }
+    },
+    "Alternative partition 1": {
+        "Partition": "Alternative partition 1",
+        "Quality": "*",
+        "Nb. domains": 5,
+        "Domains": {
+            "Domain 1": {
+                "AUL": 65,
+                "Z-score": -1.7,
+                "PUs": {
+                    "1-74": {
+                        "AUL": 63,
+                        "Z-score": -1.7
+                    }
+                }
+            },
+            "Domain 2": {
+                "AUL": 23,
+                "Z-score": -1.1,
+                "PUs": {
+                    "75-135": {
+                        "AUL": 15,
+                        "Z-score": -1.1
+                    }
+                }
+            },
+            "Domain 3": {
+                "AUL": 82,
+                "Z-score": -2.4,
+                "PUs": {
+                    "136-163": {
+                        "AUL": 81,
+                        "Z-score": -2.3
+                    }
+                }
+            },
+            "Domain 4": {
+                "AUL": 88,
+                "Z-score": -3.0,
+                "PUs": {
+                    "164-236": {
+                        "AUL": 89,
+                        "Z-score": -3.1
+                    }
+                }
+            },
+            "Domain 5": {
+                "AUL": 90,
+                "Z-score": -3.2,
+                "PUs": {
+                    "237-335": {
+                        "AUL": 89,
+                        "Z-score": -3.2
+                    }
+                }
+            }
+        }
+    },
+    "Alternative partition 2": {
+        "Partition": "Alternative partition 2",
+        "Quality": "*",
+        "Nb. domains": 5,
+        "Domains": {
+            "Domain 1": {
+                "AUL": 61,
+                "Z-score": -1.6,
+                "PUs": {
+                    "1-74": {
+                        "AUL": 63,
+                        "Z-score": -1.7
+                    }
+                }
+            },
+            "Domain 2": {
+                "AUL": 72,
+                "Z-score": -1.9,
+                "PUs": {
+                    "75-135": {
+                        "AUL": 28,
+                        "Z-score": -1.2
+                    },
+                    "202-236": {
+                        "AUL": 48,
+                        "Z-score": -1.4
+                    }
+                }
+            },
+            "Domain 3": {
+                "AUL": 80,
+                "Z-score": -2.3,
+                "PUs": {
+                    "136-163": {
+                        "AUL": 81,
+                        "Z-score": -2.3
+                    }
+                }
+            },
+            "Domain 4": {
+                "AUL": 81,
+                "Z-score": -2.3,
+                "PUs": {
+                    "164-201": {
+                        "AUL": 81,
+                        "Z-score": -2.3
+                    }
+                }
+            },
+            "Domain 5": {
+                "AUL": 89,
+                "Z-score": -3.1,
+                "PUs": {
+                    "237-335": {
+                        "AUL": 89,
+                        "Z-score": -3.1
+                    }
+                }
+            }
+        }
+    },
+    "Alternative partition 3": {
+        "Partition": "Alternative partition 3",
+        "Quality": "*",
+        "Nb. domains": 4,
+        "Domains": {
+            "Domain 1": {
+                "AUL": 84,
+                "Z-score": -2.5,
+                "PUs": {
+                    "1-135": {
+                        "AUL": 83,
+                        "Z-score": -2.5
+                    }
+                }
+            },
+            "Domain 2": {
+                "AUL": 81,
+                "Z-score": -2.3,
+                "PUs": {
+                    "136-163": {
+                        "AUL": 81,
+                        "Z-score": -2.3
+                    }
+                }
+            },
+            "Domain 3": {
+                "AUL": 88,
+                "Z-score": -3.0,
+                "PUs": {
+                    "164-236": {
+                        "AUL": 89,
+                        "Z-score": -3.1
+                    }
+                }
+            },
+            "Domain 4": {
+                "AUL": 90,
+                "Z-score": -3.2,
+                "PUs": {
+                    "237-335": {
+                        "AUL": 89,
+                        "Z-score": -3.0
+                    }
+                }
+            }
+        }
+    },
+    "Alternative partition 4": {
+        "Partition": "Alternative partition 4",
+        "Quality": "*",
+        "Nb. domains": 4,
+        "Domains": {
+            "Domain 1": {
+                "AUL": 65,
+                "Z-score": -1.7,
+                "PUs": {
+                    "1-74": {
+                        "AUL": 65,
+                        "Z-score": -1.7
+                    }
+                }
+            },
+            "Domain 2": {
+                "AUL": 78,
+                "Z-score": -2.2,
+                "PUs": {
+                    "75-163": {
+                        "AUL": 79,
+                        "Z-score": -2.2
+                    }
+                }
+            },
+            "Domain 3": {
+                "AUL": 89,
+                "Z-score": -3.1,
+                "PUs": {
+                    "164-236": {
+                        "AUL": 89,
+                        "Z-score": -3.1
+                    }
+                }
+            },
+            "Domain 4": {
+                "AUL": 89,
+                "Z-score": -3.1,
+                "PUs": {
+                    "237-335": {
+                        "AUL": 90,
+                        "Z-score": -3.2
+                    }
+                }
+            }
+        }
+    },
+    "Alternative partition 5": {
+        "Partition": "Alternative partition 5",
+        "Quality": "**",
+        "Nb. domains": 3,
+        "Domains": {
+            "Domain 1": {
+                "AUL": 83,
+                "Z-score": -2.4,
+                "PUs": {
+                    "1-135": {
+                        "AUL": 83,
+                        "Z-score": -2.4
+                    }
+                }
+            },
+            "Domain 2": {
+                "AUL": 93,
+                "Z-score": -3.9,
+                "PUs": {
+                    "136-236": {
+                        "AUL": 93,
+                        "Z-score": -3.9
+                    }
+                }
+            },
+            "Domain 3": {
+                "AUL": 89,
+                "Z-score": -3.1,
+                "PUs": {
+                    "237-335": {
+                        "AUL": 90,
+                        "Z-score": -3.2
+                    }
+                }
+            }
+        }
+    },
+    "Alternative partition 6": {
+        "Partition": "Alternative partition 6",
+        "Quality": "*****",
+        "Nb. domains": 2,
+        "Domains": {
+            "Domain 1": {
+                "AUL": 94,
+                "Z-score": -4.4,
+                "PUs": {
+                    "1-236": {
+                        "AUL": 95,
+                        "Z-score": -4.6
+                    }
+                }
+            },
+            "Domain 2": {
+                "AUL": 89,
+                "Z-score": -3.1,
+                "PUs": {
+                    "237-335": {
+                        "AUL": 89,
+                        "Z-score": -3.1
+                    }
+                }
+            }
+        }
+    },
+    "Alternative partition 7": {
+        "Partition": "Alternative partition 7",
+        "Quality": "****",
+        "Nb. domains": 2,
+        "Domains": {
+            "Domain 1": {
+                "AUL": 89,
+                "Z-score": -3.1,
+                "PUs": {
+                    "1-163": {
+                        "AUL": 88,
+                        "Z-score": -3.0
+                    }
+                }
+            },
+            "Domain 2": {
+                "AUL": 94,
+                "Z-score": -4.2,
+                "PUs": {
+                    "164-335": {
+                        "AUL": 94,
+                        "Z-score": -4.1
+                    }
+                }
+            }
+        }
+    }
+}
