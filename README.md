@@ -36,7 +36,7 @@ python cas12fam.py -i input.pdb -o outputdir
 python cas12fam.py -i example/5u34_A.pdb -o 5u34
 ```
 ## Output
-
+### **1. SWORD2 Domain Segmentation**
 - `{output_dir}/sword2/{input_pdb}_A/`  
   **SWORD2 segmented domains**, including:
   - `{input_pdb}_A.pdb` → The segmented domains in **PDB format**.
