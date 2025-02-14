@@ -1,6 +1,6 @@
 # **Cas12fam: Cas12 Family Annotation Method**
 Cas12fam (**Cas12 Family Annotation Method**) is a **protein domain annotation tool** specifically designed for **Cas12 protein families**.  
-It integrates **structure prediction and alignment techniques** to generate accurate domain annotations, leveraging tools such as **SWORD2, DALI, and Foldseek**.
+It combines structure prediction and alignment methodologies to provide precise domain annotations, utilizing advanced tools such as **SWORD2**, **DALI**, and **Foldseek**. The software categorizes proteins into 18 distinct domains: WED1, WED2, WED3, REC1, REC2, REC3, PI, RuvC1, RuvC2, RuvC3, BH, NUC1, NUC2, PRS, STP, HNC, TSL, and LC.
 
 ## **Features**
 - 🧬 **Cas12-specific domain annotation**: Tailored for Cas12 family proteins.
